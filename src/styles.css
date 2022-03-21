@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.show {
+  display: block;
+  border: solid;
+  height: 300px;
+  width: 443px;
+  color: brown;
+  padding-bottom: 10px;
+}
+
+.hide {
+  display: none;
+}
